@@ -1,0 +1,27 @@
+{
+  "name": "parsers-compare",
+  "version": "1.0.0",
+  "description": "CSV parsers are tools that allow you to read and write CSV (Comma Separated Values) files. They are often used for storing and exchanging data in a tabular format. This repository provides a comparison of different CSV parsers with visually appealing graphics to help you choose the best one for your needs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathan7432/parsers-compare.git"
+  },
+  "keywords": [
+    "CSV",
+    "Parser",
+    "Fast"
+  ],
+  "author": "Nathan Pirhalla <pirhalla93@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathan7432/parsers-compare/issues"
+  },
+  "homepage": "https://github.com/nathan7432/parsers-compare#readme",
+  "dependencies": {
+    "cli-progress": "^3.11.2"
+  }
+}
